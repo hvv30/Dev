@@ -35,7 +35,7 @@ header h1 {
 
 /* Hero Image Styles */
 .hero-image {
-    background-image: url('hero-image.jpg');
+    background-image: url('hero-img.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
